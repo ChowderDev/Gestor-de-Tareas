@@ -14,21 +14,21 @@
 
 ---
 
-## 📌 Tecnologías Utilizadas
-### 🔹 Python – Lenguaje principal
-### 🔹 JSON – Para almacenamiento de datos
-### 🔹 OS & SYS – Manejo de archivos
+## 📌 Tecnologías Utilizadas  
+ 🔹 **Python – Lenguaje principal**  
+ 🔹 **JSON – Para almacenamiento de datos**  
+ 🔹 **OS & SYS – Manejo de archivos**  
 
 ---
 
-## 📫 Contacto
-### 📧 Email: gabrieljjgaliano@gmail.com
-### 🔗 GitHub: https://github.com/ChowderDev
+## 📫 Contacto  
+ 📧 **Email: gabrieljjgaliano@gmail.com**  
+ 🔗 **GitHub: https://github.com/ChowderDev**  
 
 ---
 
 ## 🛠 Instalación y Uso  
 ### 1️⃣ **Clona el repositorio**  
 ```sh
-git clone https://github.com/tuusuario/gestor_tareas.git
+git clone https://github.com/ChowderDev/Gestor-de-Tareas.git
 cd gestor_tareas
