@@ -23,7 +23,7 @@
 
 ## 📫 Contacto  
  📧 **Email: gabrieljjgaliano@gmail.com**  
- 🔗 **GitHub: https://github.com/ChowderDev**  
+ 🔗 **GitHub: [ChowderDev](https://github.com/ChowderDev)**  
 
 ---
 
